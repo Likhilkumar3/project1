@@ -12,6 +12,7 @@ This is a web based application developed for health related based website in in
 ## Azure technologies used for Project
 
 - Static web apps
+- healthbot
 
 ## Features and Functionalities 😃
 
@@ -24,9 +25,7 @@ This is a web based application developed for health related based website in in
 
 ## Screenshots
 
-![start](https://user-images.githubusercontent.com/117503741/204092804-44f63fc8-e2c4-4d3c-8778-aed89c187156.png)
-
-
+![new](https://user-images.githubusercontent.com/117503741/204096617-54ef8d38-a085-47a8-a0eb-4e883021dcc9.png)
 
 ### About Us -
 
