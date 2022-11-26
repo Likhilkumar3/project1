@@ -24,29 +24,32 @@ This is a web based application developed for health related based website in in
 
 ## Screenshots
 
-![Screenshot_20221126_191159](https://user-images.githubusercontent.com/117503741/204092304-7a0d52f9-af78-434a-b2d8-cabb360fc0e2.png)
+![start](https://user-images.githubusercontent.com/117503741/204092804-44f63fc8-e2c4-4d3c-8778-aed89c187156.png)
+
 
 
 ### About Us -
 
-![about us](https://user-images.githubusercontent.com/117503741/204092159-a1ff133c-6873-4946-9c89-3fcc4ba7ecbe.jpg)
+![about](https://user-images.githubusercontent.com/117503741/204092875-b16e26f6-68d0-4da5-b4b1-9e4e9f391329.png)
 
-![our barbers](https://user-images.githubusercontent.com/117503741/204092202-33032c92-b0b4-402c-be1a-59564fe05b36.jpg)
-
+![barbers](https://user-images.githubusercontent.com/117503741/204093031-3febf5bc-8bfc-40ba-a419-c5e0a586c5dd.png)
 
 ### Services -
 
-![what we do](https://user-images.githubusercontent.com/117503741/204092238-d6f0b359-2ca5-4ec7-b2e0-63d0529c7616.jpg)
+![services](https://user-images.githubusercontent.com/117503741/204093092-377e3346-80de-4a7a-bfef-76bffaa20ed5.png)
+
+![price table](https://user-images.githubusercontent.com/117503741/204093486-0ee56873-3f41-43df-a585-7aa32e6494a5.png)
 
 ### Contact us -
 
-![contact](https://user-images.githubusercontent.com/117503741/204092266-5ad205ac-1109-4759-988f-5c958fc89c41.jpg)
-![appointement](https://user-images.githubusercontent.com/117503741/204092279-c7c9bc79-20ff-4a08-8bd5-30b9a08728a4.jpg)
+![location](https://user-images.githubusercontent.com/117503741/204093435-11c0c67a-376d-461e-9288-b9b612ac747f.png)
 
+![appointement](https://user-images.githubusercontent.com/117503741/204093464-8595c412-80dd-453a-9e9d-a2b5a5b37e57.png)
 
 ### end screenshot
 
-![end](https://user-images.githubusercontent.com/117503741/204092393-6cb15028-92b8-4f88-9fa4-84d18877e513.jpg)
+![end](https://user-images.githubusercontent.com/117503741/204093497-168c2166-a0e9-44f6-9258-10ba39919d84.png)
+
 
 
 
