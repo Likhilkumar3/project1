@@ -7,7 +7,7 @@ This is a web based application developed for health related based website in in
 
 
 **Project Link** - https://blue-smoke-0b50b5500.2.azurestaticapps.net/
-**project demo video link** - 
+**project demo video link** - https://youtu.be/eS0GTLiiqvc
 
 ## Azure technologies used for Project
 
